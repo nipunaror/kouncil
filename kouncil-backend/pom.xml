@@ -197,7 +197,7 @@
                             </execution>
                         </executions>
                         <configuration>
-                            <repository>consdata/kouncil</repository>
+                            <repository>cosmofeed/kouncil</repository>
                             <tag>${project.version}</tag>
                             <buildArgs>
                                 <JAR_FILE>target/${project.build.finalName}.jar</JAR_FILE>
